@@ -1,7 +1,6 @@
 personal-finance
 ================
 
-Personal Finance Tracker
 - Each user creates a personal portfolio
 - Keeps track of bank account data
 - Enter stocks owned
